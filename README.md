@@ -14,7 +14,7 @@ A clean, interactive, and lightweight implementation of the classic Tic-Tac-Toe 
 * Clear, modular function design for code readability and maintenance.
 
 ## 📦 How to Run
-To run this game locally, ensure you have a C++ compiler installed (like GCC/MinGW).
+To run this game locally, ensure you have a C++ compiler installed (like GCC/MinGW/Visual Studio).
 
 1. Clone this repository:
    ```bash
