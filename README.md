@@ -18,4 +18,4 @@ To run this game locally, ensure you have a C++ compiler installed (like GCC/Min
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/AloneBoii1/Console-Based-Tic-Tac-Toe-Game-Using-Cpp.git](https://github.com/AloneBoii1/Console-Based-Tic-Tac-Toe-Game-Using-Cpp.git)
+   git clone [https://github.com/shaheeralisgd/Console-Based-Tic-Tac-Toe-Game-Using-Cpp.git](https://github.com/shaheeralisgd/Console-Based-Tic-Tac-Toe-Game-Using-Cpp.git)
